@@ -465,6 +465,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
+- [SkillMaxx](https://skillmaxx.gilventures.ai/) - Free directory that install-tests 430 Claude skills, plugins, and MCP servers nightly across 5 coding agents and publishes pass/fail matrices and raw failure logs.
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 
 ### Inspiration & Use Cases
